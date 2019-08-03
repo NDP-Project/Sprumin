@@ -1,0 +1,6 @@
+# venv
+venv
+
+# images
+Multiprocessing/image/*
+Multiprocessing/chromedriver.exe
