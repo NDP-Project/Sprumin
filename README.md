@@ -3,3 +3,4 @@
 
 # TODO
 - Multiprocessing 으로 크롤러 구현
+- ORM to Sql query
